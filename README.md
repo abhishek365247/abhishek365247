@@ -6,5 +6,5 @@
 - 💬 Ask me about anything.
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
